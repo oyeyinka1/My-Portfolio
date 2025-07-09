@@ -1,0 +1,11 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    /* background:linear-gradient(to left, rgb(28, 28, 27), #555, #aaa, rgb(89, 88, 88)); */
+    background:linear-gradient(to top, rgb(28, 28, 27), #555, #4a4949, rgb(89, 88, 88));
+    height:100vh;
+    width: 100vh;
+}
